@@ -33,8 +33,7 @@ These methods demonstrate operations such as insertion, search, and traversal on
 ## Contributors
 
 - Jose Magno
-- Mayank Jaiswal
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [licence](https://opensource.org/license/mit)  file for details.
